@@ -1,0 +1,76 @@
+﻿<section class="page-section cta">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-9 mx-auto">
+                <div class="cta-inner bg-faded text-center rounded">
+                    <h2 class="section-heading mb-5">
+                        <span class="section-heading-upper">RESTORANIMIZA BEKLERİZ!</span>
+                        <span class="section-heading-lower">ÇALIŞMA SAATLERİMİZ</span>
+                    </h2>
+                    <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
+                        <li class="list-unstyled-item list-hours-item d-flex">
+                            PAZARTESİ
+                            <span class="ms-auto">10.00 - 22.00</span>
+                        </li>
+                        <li class="list-unstyled-item list-hours-item d-flex">
+                            SALI
+                            <span class="ms-auto">10.00 - 22.00</span>
+                        </li>
+                        <li class="list-unstyled-item list-hours-item d-flex">
+                            ÇARŞAMBA
+                            <span class="ms-auto">10.00 - 22.00</span>
+                        </li>
+                        <li class="list-unstyled-item list-hours-item d-flex">
+                            PERŞEMBE
+                            <span class="ms-auto">10.00 - 22.00</span>
+                        </li>
+                        <li class="list-unstyled-item list-hours-item d-flex">
+                            CUMA
+                            <span class="ms-auto">10.00 - 22.00</span>
+                        </li>
+                        <li class="list-unstyled-item list-hours-item d-flex">
+                            CUMARTESİ
+                            <span class="ms-auto">10.00 - 22.00</span>
+                        </li>
+                        <li class="list-unstyled-item list-hours-item d-flex">
+                            PAZAR
+                            <span class="ms-auto">12.00 - 22.00</span>
+                        </li>
+                    </ul>
+                    <p class="address mb-5">
+                        <em>
+                            <strong>İstiklal Mah. Muhsin Yazıcıoğlu Bulavarı RoyalBlue Center no:25/8</strong>
+                            <br />
+                            Serdivan/Sakarya
+                        </em>
+                    </p>
+                    <div class="mt-3">
+                        <a href="https://www.instagram.com/mantieviravioli/" target="_blank" class="btn btn-instagram">
+                            <img src="~/assets/img/instagram-6338393_1280.jpg" alt="Instagram" style="width:30px; vertical-align:middle; margin-right:5px;" />
+                            mantieviravioli
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    // Bugünü vurgulama işlevi
+            window.addEventListener('DOMContentLoaded', event => {
+            const listHoursArray = document.body.querySelectorAll('.list-hours-item');
+
+            // JavaScript'te Pazar=0, Pazartesi=1, ..., Cumartesi=6
+            const today = new Date().getDay();
+
+            // Pazartesi indeksi 0 olacak şekilde ayarlama
+            let adjustedDay = today - 1;
+            if (adjustedDay < 0) adjustedDay = 6; // Pazar ise 6. indekse ayarla
+
+            // Bugünü vurgula
+            if (listHoursArray[adjustedDay]) {
+                listHoursArray[adjustedDay].classList.add('buGun');
+            }
+        });
+</script>

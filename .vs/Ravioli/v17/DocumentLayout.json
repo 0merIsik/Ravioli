@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|c:\\users\\misra\\onedrive\\desktop\\raviolifinally\\ravioli\\views\\home\\saatler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|solutionrelative:ravioli\\views\\home\\saatler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|c:\\users\\misra\\onedrive\\desktop\\raviolifinally\\ravioli\\views\\home\\corbalar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|solutionrelative:ravioli\\views\\home\\corbalar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|c:\\users\\misra\\onedrive\\desktop\\raviolifinally\\ravioli\\views\\home\\aparatifler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|solutionrelative:ravioli\\views\\home\\aparatifler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|c:\\users\\misra\\onedrive\\desktop\\raviolifinally\\ravioli\\views\\home\\mantilar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|solutionrelative:ravioli\\views\\home\\mantilar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|c:\\users\\misra\\onedrive\\desktop\\raviolifinally\\ravioli\\views\\home\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|solutionrelative:ravioli\\views\\home\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|c:\\users\\misra\\onedrive\\desktop\\raviolifinally\\ravioli\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|solutionrelative:ravioli\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|c:\\users\\misra\\onedrive\\desktop\\raviolifinally\\ravioli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|solutionrelative:ravioli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|c:\\users\\misra\\onedrive\\desktop\\raviolifinally\\ravioli\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|solutionrelative:ravioli\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|c:\\users\\misra\\onedrive\\desktop\\raviolifinally\\ravioli\\views\\home\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|solutionrelative:ravioli\\views\\home\\hakkimizda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|c:\\users\\misra\\onedrive\\desktop\\raviolifinally\\ravioli\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|solutionrelative:ravioli\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|c:\\users\\misra\\onedrive\\desktop\\raviolifinally\\ravioli\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD98FCC-CB59-434D-83DC-CE749CE11174}|Ravioli\\Ravioli.csproj|solutionrelative:ravioli\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "scripts.js",
+              "DocumentMoniker": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\wwwroot\\js\\scripts.js",
+              "RelativeDocumentMoniker": "Ravioli\\wwwroot\\js\\scripts.js",
+              "ToolTip": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\wwwroot\\js\\scripts.js",
+              "RelativeToolTip": "Ravioli\\wwwroot\\js\\scripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-10T00:47:08.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnaSayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\AnaSayfa.cshtml",
+              "RelativeDocumentMoniker": "Ravioli\\Views\\Home\\AnaSayfa.cshtml",
+              "ToolTip": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\AnaSayfa.cshtml",
+              "RelativeToolTip": "Ravioli\\Views\\Home\\AnaSayfa.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T15:29:59.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mantilar.cshtml",
+              "DocumentMoniker": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\Mantilar.cshtml",
+              "RelativeDocumentMoniker": "Ravioli\\Views\\Home\\Mantilar.cshtml",
+              "ToolTip": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\Mantilar.cshtml",
+              "RelativeToolTip": "Ravioli\\Views\\Home\\Mantilar.cshtml",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAowI4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T16:45:33.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Saatler.cshtml",
+              "DocumentMoniker": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\Saatler.cshtml",
+              "RelativeDocumentMoniker": "Ravioli\\Views\\Home\\Saatler.cshtml",
+              "ToolTip": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\Saatler.cshtml",
+              "RelativeToolTip": "Ravioli\\Views\\Home\\Saatler.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T17:00:17.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aparatifler.cshtml",
+              "DocumentMoniker": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\Aparatifler.cshtml",
+              "RelativeDocumentMoniker": "Ravioli\\Views\\Home\\Aparatifler.cshtml",
+              "ToolTip": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\Aparatifler.cshtml",
+              "RelativeToolTip": "Ravioli\\Views\\Home\\Aparatifler.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T19:22:07.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Corbalar.cshtml",
+              "DocumentMoniker": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\Corbalar.cshtml",
+              "RelativeDocumentMoniker": "Ravioli\\Views\\Home\\Corbalar.cshtml",
+              "ToolTip": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\Corbalar.cshtml",
+              "RelativeToolTip": "Ravioli\\Views\\Home\\Corbalar.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvz4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T19:23:00.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Program.cs",
+              "RelativeDocumentMoniker": "Ravioli\\Program.cs",
+              "ToolTip": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Program.cs",
+              "RelativeToolTip": "Ravioli\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:40:45.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ravioli\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ravioli\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T15:11:49.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hakkimizda.cshtml",
+              "DocumentMoniker": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\Hakkimizda.cshtml",
+              "RelativeDocumentMoniker": "Ravioli\\Views\\Home\\Hakkimizda.cshtml",
+              "ToolTip": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Views\\Home\\Hakkimizda.cshtml",
+              "RelativeToolTip": "Ravioli\\Views\\Home\\Hakkimizda.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T15:42:57.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "Ravioli\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "Ravioli\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAUrAAAAAAAAAAAAABMrAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-09T15:24:11.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ravioli\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\Ravioli\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ravioli\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:45:41.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

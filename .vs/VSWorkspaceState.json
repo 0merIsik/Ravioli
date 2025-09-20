@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Ravioli",
+    "\\Ravioli\\Models",
+    "\\Ravioli\\Properties",
+    "\\Ravioli\\Views",
+    "\\Ravioli\\Views\\Shared",
+    "\\Ravioli\\wwwroot",
+    "\\Ravioli\\wwwroot\\assets",
+    "\\Ravioli\\wwwroot\\assets\\img",
+    "\\Ravioli\\wwwroot\\css",
+    "\\Ravioli\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\Ravioli\\Views\\Home\\AnaSayfa.cshtml",
+  "PreviewInSolutionExplorer": false
+}

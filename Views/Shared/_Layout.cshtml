@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Ravioli Mantı Evi – Dünya ve yöresel mantıların buluştuğu sıcak ve samimi bir mekan." />
+    <meta name="author" content="Ravioli Mantı Evi" />
+    <title>Ravioli Mantı Evi</title>
+    <link rel="icon" type="image/x-icon" href="~/assets/img/logo.png" />
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="~/css/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h1 class="site-heading text-center text-faded d-none d-lg-block">
+            <img src="~/assets/img/logo.png" alt="...">
+        </h1>
+    </header>
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand text-uppercase fw-bold d-lg-none" href="index.html"><img src="~/assets/img/logoSmall.png" alt="..." style="width: 24; height: 27;"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/Home/AnaSayfa">Anasayfa</a></li>
+                    <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/Home/Hakkimizda">Hakkımızda</a></li>
+                    <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/Home/Mantilar">Menü</a></li>
+                    <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="/Home/Saatler">Çalışma Saatlerimiz</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    @RenderBody()
+<footer class="footer text-faded text-center py-5">
+    <div class="container"><p class="m-0 small">Copyright &copy; Ravioli Mantı Evi 2025</p></div>
+</footer>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="~/js/scripts.js"></script>
+    <style>
+        .product-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+            .product-buttons a {
+                padding: 12px 24px;
+                font-size: 1.1rem;
+                font-weight: bold;
+                text-transform: uppercase;
+                border-radius: 8px;
+                text-decoration: none;
+                background-color: #0c4128;
+                color: #fff;
+                transition: 0.3s;
+            }
+
+                .product-buttons a:hover {
+                    background-color: #0c4128;
+                }
+    </style>
+</body>
+</html>
