@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\ravioli\\Ravioli.csproj": {}
+    "C:\\Users\\omeri\\OneDrive\\Belgeler\\GitHub\\Ravioli\\Ravioli.csproj": {}
   },
   "projects": {
-    "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\ravioli\\Ravioli.csproj": {
+    "C:\\Users\\omeri\\OneDrive\\Belgeler\\GitHub\\Ravioli\\Ravioli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\ravioli\\Ravioli.csproj",
+        "projectUniqueName": "C:\\Users\\omeri\\OneDrive\\Belgeler\\GitHub\\Ravioli\\Ravioli.csproj",
         "projectName": "Ravioli",
-        "projectPath": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\ravioli\\Ravioli.csproj",
-        "packagesPath": "C:\\Users\\misra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\misra\\OneDrive\\Desktop\\RavioliFinally\\ravioli\\obj\\",
+        "projectPath": "C:\\Users\\omeri\\OneDrive\\Belgeler\\GitHub\\Ravioli\\Ravioli.csproj",
+        "packagesPath": "C:\\Users\\omeri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omeri\\OneDrive\\Belgeler\\GitHub\\Ravioli\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\misra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\omeri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
